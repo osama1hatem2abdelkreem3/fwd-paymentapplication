@@ -1,0 +1,13 @@
+﻿  server.c
+D:\MVS_PROJECT\payment app\payment app\payment app\server\server.c(131,37): warning C4047: 'function': 'ST_transaction_t *' differs in levels of indirection from 'ST_transaction_t **'
+D:\MVS_PROJECT\payment app\payment app\payment app\server\server.c(131,27): warning C4024: 'saveTransaction': different types for formal and actual parameter 1
+D:\MVS_PROJECT\payment app\payment app\payment app\server\server.c(154,10): warning C4129: 's': unrecognized character escape sequence
+D:\MVS_PROJECT\payment app\payment app\payment app\server\server.c(180,10): warning C4129: 's': unrecognized character escape sequence
+D:\MVS_PROJECT\payment app\payment app\payment app\server\server.c(201,10): warning C4129: '%': unrecognized character escape sequence
+D:\MVS_PROJECT\payment app\payment app\payment app\server\server.c(202,10): warning C4129: 's': unrecognized character escape sequence
+D:\MVS_PROJECT\payment app\payment app\payment app\server\server.c(290,16): warning C4101: 'cardData': unreferenced local variable
+D:\MVS_PROJECT\payment app\payment app\payment app\server\server.c(291,20): warning C4101: 'termData': unreferenced local variable
+D:\MVS_PROJECT\payment app\payment app\payment app\server\server.c(295,18): warning C4101: 'transState': unreferenced local variable
+D:\MVS_PROJECT\payment app\payment app\payment app\server\server.c(293,18): warning C4101: 'accountRefrence': unreferenced local variable
+D:\MVS_PROJECT\payment app\payment app\payment app\server\server.c(54): warning C4715: 'isValidAccount': not all control paths return a value
+  payment app.vcxproj -> D:\MVS_PROJECT\payment app\payment app\x64\Debug\payment app.exe
